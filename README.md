@@ -1,30 +1,22 @@
-# DuckDuckGo Browser Extensions
+# DuckDuckGo Privacy Extension (Colin Edition)
 
-[![Build Status](https://github.com/duckduckgo/duckduckgo-privacy-extension/actions/workflows/checks.yml/badge.svg)](https://github.com/duckduckgo/duckduckgo-privacy-extension/actions/workflows/checks.yml)
+DDG has created a lot of separate tools that culminate in their browser extension. With their goal of "privacy simplified", their extension is opinionated and generalized to serve its utilitarian purpose. This version is a more human abomination built to serve my own opinions and open to other contributors.
 
-DuckDuckGo Firefox, Chrome, and Edge extensions.
+Visit DDG's [Web Tracking Protections](https://help.duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/) page to learn how each of our web tracking protections works and how they work together in the browser extensions and apps to provide overlapping protection.
 
-Visit our [Web Tracking Protections](https://help.duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/) page to learn how each of our web tracking protections works and how they work together in our browser extensions and apps to provide overlapping protection.
-
-DuckDuckGo Privacy Extensions is distributed under the Apache 2.0 [License](LICENSE.md).
+This fork is distributed under the same Apache 2.0 [License](LICENSE.md).
 
 ## Latest Versions
 
-- [Firefox](https://addons.mozilla.org/en-US/firefox/addon/duckduckgo-for-firefox/)
-- [Chrome](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg)
-- [Edge](https://microsoftedge.microsoft.com/addons/detail/duckduckgo-privacy-essent/caoacbimdbbljakfhgikoodekdnlcgpk)
-- [Opera](https://addons.opera.com/en/extensions/details/duckduckgo-for-opera-2/)
+Currently dev-only. See [Development](CONTRIBUTING.md#development). In the future, release packages will be published.
 
 ### Safari
 
-The code for the Safari extension is an Xcode project which you can find [here](https://github.com/duckduckgo/privacy-essentials-safari).
-
-The Safari extension can be installed from the [App Store](https://apps.apple.com/us/app/duckduckgo-privacy-essentials/id1482920575?mt=12).
+This fork does not currently support Safari.
 
 ### Other browsers
 
 If you use another Chromium-based browser like Vivaldi, you can usually install the [Chrome](https://chrome.google.com/webstore/detail/duckduckgo-privacy-essent/bkdgflcldnnnapblkhphbgpggdiikppg) version.
-
 
 ## Reporting a broken site
 
@@ -36,7 +28,4 @@ See [Reporting bugs](CONTRIBUTING.md#reporting-bugs).
 
 ## Development
 
-We're not accepting new feature pull requests right now. For bug fixes see [Development](CONTRIBUTING.md#development).
-
-## Questions or help with the search engine
-See [help pages](https://duck.co/help).
+See [Development](CONTRIBUTING.md#development).
