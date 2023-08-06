@@ -9,23 +9,19 @@ Report broken websites using the "Report Broken Site" link on the extension popu
 1. First check to see if the bug has not already been [reported](https://github.com/duckduckgo/duckduckgo-privacy-extension/issues).
 2. Create a bug report [issue](https://github.com/duckduckgo/duckduckgo-privacy-extension/issues/new?template=bug_report.md).
 
-# Feature requests
+# Feature requests*
 
 There are two ways to submit feedback:
 1. You can send anonymous feedback using the "Send feedback" link on the extension's options page.
 2. You can submit your request as an [issue](https://github.com/duckduckgo/duckduckgo-privacy-extension/issues/new?template=feature_request.md). First check to see if the feature has not already been [suggested](https://github.com/duckduckgo/duckduckgo-privacy-extension/issues).
 
+*Being based on DDG Privacy Extension, anything reported through their system would, if approved, make its way downstream to this extension. Since DDG isn't currently (Aug 5th 2023) take feature requests, you may have better luck reporting them in this [project](https://github.com/ColinHRL/ddg-privacy-extension-ce/issues).
+
 # Development
 
-## New features
+## Pull Requests
 
-Right now all new feature development is handled internally.
-
-## Bug fixes
-
-Most bug fixes are handled internally, but we will except pull requests for bug fixes if you first:
-1. Create an issue describing the bug. see [Reporting bugs](CONTRIBUTING.md#reporting-bugs)
-2. Get approval from DDG staff before working on it. Since most bug fixes and feature development are handled internally, we want to make sure that your work doesn't conflict with any current projects.
+Pull requests linked to issues with reproducible steps and/or descriptive feature goals/rules will be prioritized over others.
 
 ## Testing locally
 
