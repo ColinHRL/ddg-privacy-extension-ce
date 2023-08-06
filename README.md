@@ -2,6 +2,8 @@
 
 DDG has created a lot of separate tools that culminate in their browser extension. With their goal of "privacy simplified", their extension is opinionated and generalized to serve its utilitarian purpose. This version is a more human abomination built to serve my own opinions and open to other contributors.
 
+Nevermind. The UI is in another repo, so I would need to fork both in order to make the necessary changes. Forget that...
+
 Visit DDG's [Web Tracking Protections](https://help.duckduckgo.com/duckduckgo-help-pages/privacy/web-tracking-protections/) page to learn how each of our web tracking protections works and how they work together in the browser extensions and apps to provide overlapping protection.
 
 This fork is distributed under the same Apache 2.0 [License](LICENSE.md).
